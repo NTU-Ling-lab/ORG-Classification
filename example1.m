@@ -42,7 +42,7 @@ RegisteredDataFileName = 'example1-data';
 % download example dataset
 if ~(exist(RegisteredDataFileName,'dir') || exist([RegisteredDataFileName '.zip'],'file'))
     disp('Downloading example dataset (data size is ~7 GB, may take 5-10 minutes to complete)...');
-    websave([RegisteredDataFileName '.zip'],'https://f2n7.c18.e2-1.dev/tonglinglab-share/ORG-Classification/example1-data.zip');
+    websave([RegisteredDataFileName '.zip'],'https://researchdata.ntu.edu.sg/api/access/datafile/151245');
 end
 
 % unzip example dataset
