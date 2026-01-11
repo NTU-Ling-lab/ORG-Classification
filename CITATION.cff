@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software for future publications, please cite our original paper published in Nature Communications. DOI: 10.1038/s41467-024-49014-5
+
+title: "ORG-Classification: Optoretinography Classification Method"
+type: software
+authors:
+  - family-names: Li
+    given-names: Huakun
+  - family-names: Ling
+    given-names: Tong
+version: 1.0.0
+date-released: 2024-05-14
+license: LGPL-2.1-only
+doi: "10.5281/zenodo.11190406"
+url: "https://github.com/NTU-Ling-lab/ORG-Classification"
+repository-code: "https://github.com/NTU-Ling-lab/ORG-Classification"
+keywords:
+  - optoretinography
+  - ORG
+  - optical coherence tomography
+  - OCT
+  - phase-resolved OCT
+  - signal classification
+  - SVM
+  - retina
+preferred-citation:
+  type: article
+  title: "Light-evoked deformations in rod photoreceptors, pigment epithelium and subretinal space revealed by prolonged and multilayered optoretinography"
+  authors:
+    - family-names: Tan
+      given-names: Bingyao
+    - family-names: Li
+      given-names: Huakun
+    - family-names: Zhuo
+      given-names: Yueming
+    - family-names: Han
+      given-names: Le
+    - family-names: Mupparapu
+      given-names: Rajeshkumar
+    - family-names: Nanni
+      given-names: Davide
+    - family-names: Barathi
+      given-names: Veluchamy Amutha
+    - family-names: Palanker
+      given-names: Daniel
+    - family-names: Schmetterer
+      given-names: Leopold
+    - family-names: Ling
+      given-names: Tong
+  journal: "Nature Communications"
+  volume: 15
+  start: 5156
+  year: 2024
+  month: 6
+  doi: "10.1038/s41467-024-49014-5"
+  url: "https://doi.org/10.1038/s41467-024-49014-5"
