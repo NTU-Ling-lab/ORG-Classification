@@ -36,6 +36,11 @@ No non-standard hardware or customized software is required.
 3. Output:
    - Analysis results saved in "analysis" and "figures" folders within the dataset directory.
 
+## Citation
+
+Tan, B., Li, H., Zhuo, Y., Han, L., Mupparapu, R., Nanni, D., Barathi, V. A., Palanker, D., Schmetterer, L. & Ling, T. Light-evoked deformations in rod photoreceptors, pigment epithelium and subretinal space revealed by prolonged and multilayered optoretinography. Nat. Commun. 15, 5156 (2024). [https://doi.org/10.1038/s41467-024-49014-5](https://doi.org/10.1038/s41467-024-49014-5)
+
+
 ## Contact Information
 
 **Huakun Li**
